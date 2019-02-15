@@ -9,9 +9,8 @@ namespace Flame\Modules\Template;
 
 use Latte\Engine;
 use Nette\InvalidStateException;
-use Nette\Object;
 
-class Helper extends Object
+class Helper
 {
 
 	/**

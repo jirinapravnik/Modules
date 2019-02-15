@@ -4,9 +4,7 @@
  */
 namespace Flame\Modules\Configurators;
 
-use Nette\Object;
-
-abstract class Config extends Object
+abstract class Config
 {
 
 	/**
